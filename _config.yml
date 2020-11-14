@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Intro to DH Blog
+description:      posts by Kaitlin Moua
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -10,7 +10,7 @@ url:
 # Owner/author information
 owner:
   name:           kaitlin moua
-  avatar:         avatar.jpg
+  avatar:         file:///Users/kaitlinmoua/Downloads/cropped-zine_things_.png
   bio:            blog for Intro to DH
   email:          moua.k@northeastern.edu
   # Social networking links used in footer. Update and remove as you like.
