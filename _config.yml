@@ -3,7 +3,6 @@ description:      posts by Kaitlin Moua
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
-background: ![](https://64.media.tumblr.com/530d3a2ec96e96daeffd71bf36006318/e55290ef262dac40-2a/s1280x1920/265084ed4b963c3b58f5ec0059828656df45c57c.png)
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:
@@ -11,7 +10,7 @@ url:
 # Owner/author information
 owner:
   name:           kaitlin moua
-  avatar:
+  avatar: ![](https://64.media.tumblr.com/530d3a2ec96e96daeffd71bf36006318/e55290ef262dac40-2a/s1280x1920/265084ed4b963c3b58f5ec0059828656df45c57c.png)
   bio:            blog for Intro to DH
   email:          moua.k@northeastern.edu
   # Social networking links used in footer. Update and remove as you like.
